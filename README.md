@@ -66,9 +66,9 @@ Implemented 3 methods:
 ## Usage
 
 ```
-python main.py -method [method name]
+python main.py -method [method's name]
 ```
-method name: choose one method for training: perceptron, softmax_linear_model (softmax linear model with additional tf-idf features), or feedforward_NN (feedforward neural network with additional tf-idf features).
+method's name: choose one method for training: perceptron, softmax_linear_model (softmax linear model with additional tf-idf features), or feedforward_NN (feedforward neural network with additional tf-idf features).
 
 
 
