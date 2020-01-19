@@ -1,4 +1,4 @@
-# fake-news-detection-nlp
+# fake-news-detection
 
 ## Intro
 This repository is to detect fake news by estimating the relative perspective (stance) of two pieces of text relative to a topic or claim.
