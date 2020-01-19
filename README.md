@@ -19,7 +19,7 @@ Performance is measured based on a weighted, two-level scoring system:
 - Level 1: Classify headline and body text as related or unrelated: 25% score weighting.
 - Level 2: Classify related pairs as agrees, disagrees, or discusses: 75% score weighting.
 
-(The related/unrelated classification task is expected to be easier and is less relevant for detecting fake news, so it is given less weight in the evaluation metric.)
+(The related/unrelated classification task is expected to be easier and is less relevant for detecting fake news, so it is given less weight than the agree/ disagree/ discuss classification task in the evaluation metric.)
 
 ## Data
 
