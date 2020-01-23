@@ -2,7 +2,6 @@ import sys
 import argparse
 import numpy as np
 
-from sklearn.ensemble import GradientBoostingClassifier
 from feature_engineering import refuting_features, polarity_features, hand_features, gen_or_load_feats
 from feature_engineering import word_overlap_features
 from feature_engineering import clean
