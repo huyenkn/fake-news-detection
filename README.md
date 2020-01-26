@@ -60,8 +60,8 @@ I implemented 3 methods:
 ###  3. Feedforward neural network with additional tf-idf features
 (44 features + tf-idf features)
 
-- Score on the development set (Hold-out split): 3907.25 out of 4448.5 (87.8329774081151%).
-- Scores on the test set: 8984.25 out of 11651.25	(77.10975217251368%).
+- Score on the development set (Hold-out split): 3907.25 out of 4448.5 (**87.8329774081151%**).
+- Scores on the test set: 8984.25 out of 11651.25	(**77.10975217251368%**).
 
 ## Usage
 
