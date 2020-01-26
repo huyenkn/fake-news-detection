@@ -53,7 +53,7 @@ I implemented 3 methods:
 ### 2. Softmax linear model with additional tf-idf features
 (44 features + tf-idf features)
 
-- Score on the development set (Hold-out split): 3857.75 out of 4448.5 (86.72024.277846465%).
+- Score on the development set (Hold-out split): 3857.75 out of 4448.5 (86.72024277846465%).
 - Score on the test set: 8963.25 out of 11651.25 (76.9295140006437%)
 
 
