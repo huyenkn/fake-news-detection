@@ -41,7 +41,7 @@ The training set (fold set) is also splitted into k folds (k=10) using the kfold
 
 ## Models
 
-Implemented 3 methods:
+I implemented 3 methods:
 
 ### 1. Perceptron
 (44 features)
