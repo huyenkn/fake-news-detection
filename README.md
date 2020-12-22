@@ -41,7 +41,7 @@ The training set (fold set) is also splitted into k folds (k=10) using the kfold
 
 ## Models
 
-Implemented 3 methods:
+I implemented 3 methods:
 
 ### 1. Perceptron
 (44 features)
@@ -53,15 +53,15 @@ Implemented 3 methods:
 ### 2. Softmax linear model with additional tf-idf features
 (44 features + tf-idf features)
 
-- Score on the development set (Hold-out split): 3857.75 out of 4448.5 (86.72024.277846465%).
+- Score on the development set (Hold-out split): 3857.75 out of 4448.5 (86.72024277846465%).
 - Score on the test set: 8963.25 out of 11651.25 (76.9295140006437%)
 
 
 ###  3. Feedforward neural network with additional tf-idf features
 (44 features + tf-idf features)
 
-- Score on the development set (Hold-out split): 3907.25 out of 4448.5 (87.8329774081151%).
-- Scores on the test set: 8984.25 out of 11651.25	(77.10975217251368%).
+- Score on the development set (Hold-out split): 3907.25 out of 4448.5 (**87.8329774081151%**).
+- Scores on the test set: 8984.25 out of 11651.25	(**77.10975217251368%**).
 
 ## Usage
 
@@ -70,7 +70,9 @@ python main.py -method [method's name]
 ```
 method's name: choose one method for training: perceptron, softmax_linear_model (softmax linear model with additional tf-idf features), or feedforward_NN (feedforward neural network with additional tf-idf features).
 
+## Reference
 
+Data source and evaluation: [Fake news challenge](http://www.fakenewschallenge.org/)
 
 
 
