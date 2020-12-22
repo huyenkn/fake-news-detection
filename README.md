@@ -1,5 +1,3 @@
-Date uploaded: Jan 11, 2020
-Date updated: Dec 22, 2020
 # fake-news-detection
 
 ## Intro
@@ -73,3 +71,7 @@ method's name: choose one method for training: perceptron, softmax_linear_model 
 ## Reference
 
 Data source and evaluation: [Fake news challenge](http://www.fakenewschallenge.org/)
+
+Date uploaded: Jan 11, 2020
+
+Date updated: Dec 22, 2020
